@@ -15,16 +15,15 @@ img{
     height: 4rem;
 }
 .profile{
-    background-color: #081f5c;
-    border: 2px bolid #081f5c;
+    background-color: #121a2f;
     border-radius: 1rem;
-    width: 15rem;
+    width: 13rem;
 }
 .user-profile{
     padding-top: 1rem;
-    padding-bottom: 4rem;
+    padding-bottom: 7rem;
     background-color: #334eac;
-    padding-left: 1.5rem;
+    padding-left: 2rem;
     border-radius: 1rem;
 }
 .calendar{
@@ -33,10 +32,14 @@ img{
     gap: 2rem;
     padding-top: 2rem;
     padding-left: 1rem;
-    background-color: #081f5c;
+    background-color: #121a2f;
+}
+a{
+    color: #334eac;
+    /* opacity: 0.7; */
+    text-decoration: none;
 }
 a:hover{
-    text-decoration: none;
     color: #c0c0c0
 }
 .schedule{
@@ -50,8 +53,8 @@ a:hover{
     border-radius: 10px;
 }
 .bottom{
-    background-color: #081f5c;
-    padding: 1.5rem;
+    background-color: #121a2f;
+    padding: 0.5rem 1rem;
     border-radius: 10px;
 }
 .bottom h2{
